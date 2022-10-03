@@ -1,0 +1,20 @@
+{
+    "name": "appleboxes",
+    "version": "1.0.0",
+    "description": "You have `k` apple boxes full of apples. Each square box of size `m` contains `m × m` apples. You just noticed two interesting properties about the boxes:",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/appleBoxes.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/appleBoxes/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/appleBoxes#readme"
+}
